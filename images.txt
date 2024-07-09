@@ -6,4 +6,4 @@ xhofe/alist:latest
 vdsm/virtual-dsm
 4gray/iptvnator-backend
 4gray/iptvnator
-docker-ilemonrain-html5-speedtest
+ilemonrain/html5-speedtest
