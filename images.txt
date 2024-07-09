@@ -5,3 +5,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 vdsm/virtual-dsm
 4gray/iptvnator-backend
+4gray/iptvnator
