@@ -7,3 +7,4 @@ vdsm/virtual-dsm
 4gray/iptvnator-backend
 4gray/iptvnator
 ilemonrain/html5-speedtest
+xiaojie101/virtual-dsm
